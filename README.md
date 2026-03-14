@@ -1,1 +1,1 @@
-# Amazon-Product-Display
+# AmazonProductDisplay
